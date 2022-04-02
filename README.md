@@ -24,7 +24,7 @@
 - Open Source Firmware & Software 
 - Lowest Power Consumption
 
-**Architecture**
+### Architecture
 ![Flow](Flow/Lumi-Flow.svg)
 
 ## Challenges we ran into
