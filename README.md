@@ -27,12 +27,12 @@
 ![Flow](Flow/Lumi-Flow.svg)
 
 ## Challenges we ran into
-- Challenge : Downloading an App or Website For Reporting Process is not Scalable to Large Audience.
-  - Solution : Easiest Reporting Mechanism: "Just Turn off Open Hotspot" When the indicator light is Turned On till it's Turned Off. 
-- Challenge : Constant Internet Connectivity Is Not Feasible to Feedback System.
-  - Solution : Internet Connectivity is only required when reporting and all other states & Ids Are Maintained Locally over the file system.
-- Challenge : Dedicated GPS Module would potentially increase build cost.
-  - Solution : Location is Fetch Using Google Geolocation API with Nearby-Wifi Network & IP Reducing GPS Module cost.
+- Downloading an App or Website For Reporting Process is not Scalable to Large Audience.
+  - ``` Easiest Reporting Mechanism: "Just Turn off Open Hotspot" When the indicator light is Turned On till it's Turned Off. ``` 
+- Constant Internet Connectivity Is Not Feasible to Feedback System.
+  - ``` Internet Connectivity is only required when reporting and all other states & Ids Are Maintained Locally over the file system. ```
+- Dedicated GPS Module would potentially increase build cost.
+  - ``` Location is Fetch Using Google Geolocation API with Nearby-Wifi Network & IP Reducing GPS Module cost. ```
 
 ## Technologies we used
 Node.js, Ejs, Arduino, C++, NodeMCU, MongoDB, Google Maps API
