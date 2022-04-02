@@ -21,3 +21,6 @@
 - Cost-Effective Less than Rs 200 per Streetlight 
 - Open Source Firmware & Software 
 - Lowest Power Consumption
+
+### Architecture
+![Flow](Flow/Lumi-Flow.svg)
