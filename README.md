@@ -1,8 +1,8 @@
 # LumiLight
 *On Mission for Perennial Light Source*
-- [LumiLight-API Repo](Flow/Lumi-Flow.svg)
-- [LumiLight-Firmware Repo](Flow/Lumi-Flow.svg)
-- [LumiLight-Deployment](Flow/Lumi-Flow.svg)
+- [LumiLight-API Repo](https://github.com/Lumi-Light/LumiLight-API)
+- [LumiLight-Firmware Repo](https://github.com/Lumi-Light/LumiLight-Firmware)
+- [LumiLight-Deployment](https://lumilight.herokuapp.com/)
 - [LumiLight-Presentation](Flow/Lumi-Flow.svg)
 
 
