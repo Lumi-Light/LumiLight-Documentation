@@ -3,7 +3,8 @@
 - [LumiLight-API Repo](https://github.com/Lumi-Light/LumiLight-API)
 - [LumiLight-Firmware Repo](https://github.com/Lumi-Light/LumiLight-Firmware)
 - [LumiLight-Deployment](https://lumilight.herokuapp.com/)
-- [LumiLight-Presentation](Flow/Lumi-Flow.svg)
+- [LumiLight-Presentation](https://www.canva.com/design/DAE8vHfKn9g/dQG7je0tzlZ8MN3ld8g-jQ/view?website#4)
+- [LumiLight-Video](https://youtu.be/8DhQ2CrhTSM)
 
 
 ## The Problem Lumi-Light solves
