@@ -5,6 +5,7 @@
 - [LumiLight-Deployment](Flow/Lumi-Flow.svg)
 - [LumiLight-Presentation](Flow/Lumi-Flow.svg)
 
+
 ## The Problem Lumi-Light solves
 
 ### Problem
@@ -22,7 +23,7 @@
 - Open Source Firmware & Software 
 - Lowest Power Consumption
 
-### Architecture
+**Architecture**
 ![Flow](Flow/Lumi-Flow.svg)
 
 ## Challenges we ran into
@@ -32,3 +33,6 @@
   - Solution : Internet Connectivity is only required when reporting and all other states & Ids Are Maintained Locally over the file system.
 - Challenge : Dedicated GPS Module would potentially increase build cost.
   - Solution : Location is Fetch Using Google Geolocation API with Nearby-Wifi Network & IP Reducing GPS Module cost.
+
+## Technologies we used
+Node.js, Ejs, Arduino, C++, NodeMCU, MongoDB, Google Maps API
